@@ -1,6 +1,6 @@
 👋 Hi, I'm Keith Adeti
 
-🎯 **Data Intelligence Analyst | Data Operations Consultant**
+🎯 **Data Analyst | Bussines Analyst | Operations Consultant**
 
 🛠 **Technical Stack:**
 - **Languages:** SQL | Python | R
