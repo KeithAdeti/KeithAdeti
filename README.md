@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @KeithAdeti
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m intrested in SQL, R, Python and PowerBi
-- 💞️ I’m looking to collaborate on Data Projects
-- 📫 How to reach me adetibrian@gmail.com
-- 😄 Pronouns: Mr.
-- ⚡ Fun fact: @ManUtd Fan
+👋 Hi, I'm Keith Adeti
 
-<!---
-KeithAdeti/KeithAdeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Data Intelligence Analyst | Data Operations Consultant**
+
+🛠 **Technical Stack:**
+- **Languages:** SQL | Python | R
+- **Tools:** Power BI | Excel | AWS Cloud Services
+
+🚀 **Experience:**
+- 3+ years in Data Analytics and Intelligence.
+- Expertise in automation, data validation, reporting, and AI integration.
+
+📚 **Certifications:**
+- AWS Certified
+- Google Data Analytics (in progress)
+
+🤝 **Collaboration:**
+- Interested in Data Analytics & AI projects.
+
+📬 **Reach me:** [adetibrian@gmail.com](mailto:adetibrian@gmail.com)
+
+⚡ **Fun Fact:** Passionate Manchester United fan!
